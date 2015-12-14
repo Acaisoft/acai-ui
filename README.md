@@ -1,6 +1,6 @@
 ![Acaisoft](https://raw.githubusercontent.com/Acaisoft/PokerTutorial/master/styles/images/logo.png)
 
-# Poker
+# Acai-ui
 Acaisofts AngularJS Modules and styles supported by AngularJS 1.0 and TypeScript.
 
 <a href="http://acaisoft.com" target="_blank">http://acaisoft.com</a>
