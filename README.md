@@ -9,9 +9,9 @@ Acaisofts AngularJS Modules and styles supported by AngularJS 1.0 and TypeScript
 
 # acaiLoader
 
-To run the loader, simply add 'acaiLoader' module to you main module.
+To run the loader, simply add 'acaiLoader' module to you main module. Then, you are able to use acaiLoaderService.
 
 Functionality:
 
--showLoader(promise): as a parameter of a function use promise. Whenever the promise will be resolved, the loader will hide.
+-acaiLoaderService.showLoader(promise): as a parameter of a function use promise. Whenever the promise will be resolved, the loader will hide.
 
