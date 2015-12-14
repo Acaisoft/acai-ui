@@ -1,0 +1,25 @@
+.loader-container {
+    position: absolute;
+    left: 40%;
+    height: 50px;
+    top: 200px;
+    width: 20%;
+    background-image: url('../images/loading-bg-center.png');
+    background-repeat: no-repeat;
+    z-index: 9999;
+}
+
+.loading-text{
+    margin-left: 10%;
+    line-height: 50px;
+    color:white;
+}
+
+.loading-img{
+    height: 14px;
+    content: url('../images/loading.gif');
+}
+
+.loading-label{
+    margin-left:14px
+}
